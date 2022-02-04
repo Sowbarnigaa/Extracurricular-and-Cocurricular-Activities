@@ -1,0 +1,27 @@
+
+	body{
+background:linear-gradient(to  right,#990033
+ 0%, #00e6e6 100%);
+}
+	table
+	{
+  border-collapse: collapse;
+  width: 60%;
+ border:"10";
+padding:"10";
+	}
+	td {
+  text-align: center;
+  padding: 8px;
+}
+table.center {
+  margin-left: auto; 
+  margin-right: auto;
+}
+tr:nth-child(even) {background-color: #595959;height: 50 px;color:#ffffff;font-size:150%}
+tr:nth-child(odd) {background-color: #333333;height: 50 px;color: #ffffff;font-size:150%}
+caption{
+	font-family:Comic Sans MS;
+	font-size:150%;
+	font-weight: bold;
+}
